@@ -113,7 +113,7 @@ The model predicts whether the given news article is:
 
 Vivek M B
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/VivekMB03
 
 ---
 
